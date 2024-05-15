@@ -1,0 +1,218 @@
+[
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTService_PlayerLocationIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTService_PlayerLocationIfSeen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTTask_ClearBlackboardValue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTTask_ClearBlackboardValue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTTask_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\BTTask_Shoot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\DestroyAllEnemiesGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\DestroyAllEnemiesGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\Gun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunBoiAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunBoiAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunsBoi.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunsBoi.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunsBoiPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunsBoiPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunsBoi_Player.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\GunsBoi_Player.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\IceAndMetal.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\IceAndMetal.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\IceAndMetal.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\IceAndMetalGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\IceAndMetalGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\MyPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\Source\\IceAndMetal\\MyPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Admin\\Documents\\Unreal Projects\\IceAndMetal\\.vscode\\compileCommands_Default\\IceAndMetal.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]

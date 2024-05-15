@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+### CUSTOM ADDITIONS
+# Big Game Assets
+Content/AssetPacks/*
+Content/ModSci_Engineer/*
+Content/ModSci_EngiProps/*
+Content/ModSciInteriors/*
+Content/StarterBundle/*
+Content/Sprites/*
